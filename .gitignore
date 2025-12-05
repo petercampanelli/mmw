@@ -1,0 +1,7 @@
+.DS_Store
+
+# dependency files
+.yarn/
+node_modules/
+.shopify/
+.github/
